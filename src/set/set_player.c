@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** set_skin
-*/
-
 #include "../../include/my.h"
 
 /// @brief set the player skin to skin_id and recreate textures

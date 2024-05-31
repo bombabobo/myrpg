@@ -1,11 +1,4 @@
-/*
-** EPITECH PROJECT, 2024
-** B-MUL-200-LYN-2-1-myrpg-marin.lagie
-** File description:
-** event_settings.c
-*/
 #include "../../include/my.h"
-
 
 static void is_clicked_fps(gstruct_t *gstruct, sfEvent *event)
 {

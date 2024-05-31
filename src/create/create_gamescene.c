@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** create_gamescene
-*/
-
 #include "../../include/my.h"
 
 /// @brief set player physical stats

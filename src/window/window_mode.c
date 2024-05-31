@@ -1,9 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** B-MUL-200-LYN-2-1-myrpg-marin.lagie
-** File description:
-** window_mode.c
-*/
 #include "../../include/my.h"
 
 int is_fs(gstruct_t *gstruct, sfRenderWindow *win, int def_style)

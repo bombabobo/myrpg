@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** save_struct
-*/
-
 #include "../../include/my.h"
 
 void save_player_stats(gstruct_t *gstruct, FILE *fd)

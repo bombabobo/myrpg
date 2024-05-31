@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2023
-** Untitled (Workspace)
-** File description:
-** myradar
-*/
-
 #include "../include/my.h"
 
 /// @brief hash a string into an integer

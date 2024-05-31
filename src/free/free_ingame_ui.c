@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2023
-** Untitled (Workspace)
-** File description:
-** free_ingame_ui
-*/
-
 #include "../../include/my.h"
 
 /// @brief destroy game user interface

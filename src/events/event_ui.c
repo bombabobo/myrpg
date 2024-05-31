@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** event_ui
-*/
-
 #include "../../include/my.h"
 
 /// @brief for eschap menu events

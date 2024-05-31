@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** update_game
-*/
-
 #include "../../include/my.h"
 
 /// @brief update the window size to stay in a 16:9 ratio

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** event
-*/
-
 #include "../include/my.h"
 
 /// @brief set state to clicked when it's clicked

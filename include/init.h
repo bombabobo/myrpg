@@ -1,9 +1,3 @@
-/*
-** EPITECH PROJECT, 2023
-** Untitled (Workspace)
-** File description:
-** init
-*/
 #include "my.h"
 #ifndef INIT_H_
     #define INIT_H_

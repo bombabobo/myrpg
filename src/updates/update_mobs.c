@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2016
-** Untitled (Workspace)
-** File description:
-** update_mobs
-*/
-
 #include "../../include/my.h"
 
 /// @brief move in the right directions if there is no walls

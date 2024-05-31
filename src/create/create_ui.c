@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** create_ui
-*/
-
 #include "../../include/my.h"
 
 /// @brief init any button

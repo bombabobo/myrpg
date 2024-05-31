@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** update_ingame_ui
-*/
-
 #include "../../include/my.h"
 
 /// @brief update the transparent black backround when paused

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** stumper7
-** File description:
-** recuptab
-*/
-
 #include "../include/my.h"
 
 char *recup_file_str(char const *nmfich)

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** update
-*/
-
 #include "../include/my.h"
 
 /// @brief test 2 colors

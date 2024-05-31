@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** load_struct
-*/
-
 #include "../../include/my.h"
 
 void load_player_stats(gstruct_t *gstruct, FILE *fd)

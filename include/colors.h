@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2023
-** Untitled (Workspace)
-** File description:
-** colors
-*/
-
 #ifndef COLORS_H_
     #define COLORS_H_
 //Regular text

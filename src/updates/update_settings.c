@@ -1,9 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** B-MUL-200-LYN-2-1-myrpg-marin.lagie
-** File description:
-** update_settings.c
-*/
 #include "../../include/my.h"
 
 static void upd_resolution(gstruct_t *gstruct, sfRenderWindow *window)

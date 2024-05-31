@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** create_struct
-*/
-
 #include "../../include/my.h"
 
 /// @brief init info

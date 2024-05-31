@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2024
-** Untitled (Workspace)
-** File description:
-** update_player
-*/
-
 #include "../../include/my.h"
 
 /// @brief hardcode for the anim state

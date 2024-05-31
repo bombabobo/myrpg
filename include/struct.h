@@ -1,9 +1,3 @@
-/*
-** EPITECH PROJECT, 2023
-** Untitled (Workspace)
-** File description:
-** struct
-*/
 #include "my.h"
 #include "init.h"
 #ifndef STRUCT_H_
