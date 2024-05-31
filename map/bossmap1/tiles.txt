@@ -1,0 +1,66 @@
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVV####DDD####VVVVVVVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVV#####           #####VVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVV###                     ###VVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVV##                           ##VVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVV##                               ##VVVVVVVVVVVVVVV
+VVVVVVVVVVVVVV#                                   #VVVVVVVVVVVVVV
+VVVVVVVVVVVVV#                                     #VVVVVVVVVVVVV
+VVVVVVVVVVV##                                       ##VVVVVVVVVVV
+VVVVVVVVVV#                                           #VVVVVVVVVV
+VVVVVVVVV#                                             #VVVVVVVVV
+VVVVVVVV#                                               #VVVVVVVV
+VVVVVVV#                        #                        #VVVVVVV
+VVVVVVV#                      #####                      #VVVVVVV
+VVVVVV#                       #####                       #VVVVVV
+VVVVV#                       #######                       #VVVVV
+VVVV#                         #####                         #VVVV
+VVVV#              #          #####          #              #VVVV
+VVV#             #####          #          #####             #VVV
+VVV#             #####                     #####             #VVV
+VV#             #######                   #######             #VV
+VV#              #####                     #####              #VV
+VV#              #####                     #####              #VV
+V#                 #                         #                 #V
+V#                                                             #V
+V#                                                             #V
+V#                                                             #V
+V#                                                             #V
+#                                                               #
+#                                                               #
+#             #                                   #             #
+#           #####                               #####           #
+#           #####                               #####           #
+#          #######                             #######          #
+#           #####                               #####           #
+#           #####                               #####           #
+#             #                                   #             #
+#                                                               #
+#                                                               #
+V#                                                             #V
+V#                                                             #V
+V#                                                             #V
+V#                                                             #V
+V#                 #                         #                 #V
+VV#              #####                     #####              #VV
+VV#              #####                     #####              #VV
+VV#             #######                   #######             #VV
+VVV#             #####                     #####             #VVV
+VVV#             #####          #          #####             #VVV
+VVVV#              #          #####          #              #VVVV
+VVVV#                         #####                         #VVVV
+VVVVV#                       #######                       #VVVVV
+VVVVVV#                       #####                       #VVVVVV
+VVVVVVV#                      #####                      #VVVVVVV
+VVVVVVV#                        #                        #VVVVVVV
+VVVVVVVV#                                               #VVVVVVVV
+VVVVVVVVV#                                             #VVVVVVVVV
+VVVVVVVVVV#                                           #VVVVVVVVVV
+VVVVVVVVVVV##                                       ##VVVVVVVVVVV
+VVVVVVVVVVVVV#                                     #VVVVVVVVVVVVV
+VVVVVVVVVVVVVV#                                   #VVVVVVVVVVVVVV
+VVVVVVVVVVVVVVV##                               ##VVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVV##                           ##VVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVV###                     ###VVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVV#####           #####VVVVVVVVVVVVVVVVVVVVVV
+VVVVVVVVVVVVVVVVVVVVVVVVVVV####DDD####VVVVVVVVVVVVVVVVVVVVVVVVVVV

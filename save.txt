@@ -1,0 +1,14 @@
+map_id = 2
+completed = 1
+strenght = 20
+dexterity = 20
+agility = 20
+health = 50
+current_health = 50.000000
+max_stamina = 50
+defense = 20
+statspoints = 0
+armor = 0
+skin = 1
+level = 1.431722
+coords = {409.831207; 802.381836}
